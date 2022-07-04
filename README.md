@@ -1,7 +1,8 @@
+# D365-BC200-APIs
 # D365-BC190-APIs
 Dynamics 365 Business Central custom JSON APIs 
                                          ** v.0.0.002**
-On condition that the business/client has done MANDATORY SETUPS on D365 BC190 i.e., System general ledger setup(Defining financial year),
+On condition that the business/client has done MANDATORY SETUPS on D365 BC190, BC200 i.e., System general ledger setup(Defining financial year),
 No. series setup (for Sales Invoice, Posted sales invoice, purchase invoice, posted purhcase invoice,& Bank No.s).
 Bank accounts defined, General journal templates in place i.e., cash receipt journal, Payment journal.
 Following the below *SETUP SCRIPTS* one can use the setups endpoint to define the desired code name for various posting group
