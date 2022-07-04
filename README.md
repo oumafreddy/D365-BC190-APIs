@@ -1,5 +1,5 @@
-# D365-BC200-APIs
-# D365-BC190-APIs
+
+# D365-BC190-APIs | D365-BC200-APIs
 Dynamics 365 Business Central custom JSON APIs 
                                          ** v.0.0.002**
 On condition that the business/client has done MANDATORY SETUPS on D365 BC190, BC200 i.e., System general ledger setup(Defining financial year),
